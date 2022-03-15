@@ -1,2 +1,3 @@
-# btk_akademi_python_ile_makine_ogrenmesi
- 
+# btk akademi python ile makine ogrenmesi
+
+btk akdemiden aldığım makine öğrenmesi eğitimi sürecinde yazmış olduğum bazı kodlar
